@@ -6,10 +6,11 @@
   
   I am an undergraduate student in Embedded Systems and Robotics, interested in humanoid robotics and autonomous navigation.
      
-  - ✋ My own personal project revolves around using a robotic humanoid hand to secure dangerous objects such as knives or pointy tools that could harm humans
+  - ✋ My own personal project revolves around using a robotic humanoid hand to secure dangerous objects such as knives or pointy tools that could harm humans.
   -  🚤 I'm currently investigating with the student association Vanttec how to merge YOLO image recognizition within an 3d enviroment using point clouds
-  -  🐶 I also have a project where we adapt a robot dog named Tori to give tours to visitors in a laboratory
-  - 🎮 In my free time I like to play videogames and hang out with my friends
+  -  🐶 I also have a project where we adapt a robot dog named Tori to give tours to visitors in a laboratory.
+  -  ✍️ I also like to write technichal reports for my projects. 
+  - 🎮 In my free time I like to play videogames and hang out with my friends.
   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/S0hxMGYFhEMzm/giphy.gif" width="200"/>
@@ -41,6 +42,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="60" height="60"/>&nbsp;
   <img src="https://images.ctfassets.net/nrgyaltdicpt/2nzY91x4CjwwxHdsiCjLN2/ce20e788b3364e7f5d3bf2c0552838aa/ologo_square_colour_green_bg.svg" title="Overleaf" alt="Overleaf" width="60" height="60"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/07/STMicroelectronics_2020_logo.svg" title="STMicroelectronics" alt="STMicroelectronics" width="120" height="60"/>&nbsp;
+  
+  ---
+  ### 👓 Some stats:
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alex888666&theme=dark)](https://git.io/streak-stats)
   
   
   
