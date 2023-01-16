@@ -9,4 +9,16 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Alex888666&style=flat-square&color=yellow" alt=""/>
+<div id ="Counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alex888666&style=flat-square&color=yellow" alt=""/>
+</div>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS" alt="ROS" width="50" height="50"/>&nbsp;
+  
+  
+  
+  
