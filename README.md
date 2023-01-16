@@ -1,3 +1,15 @@
+<h1>
+  Welcome to my Github Page 🤖
+  </h1>
+  
+  ### 🕺 Who I am? :
+  
+  I am an undergraduate student in Embedded Systems and Robotics, interested in humanoid robotics and autonomous navigation.
+  
+  - 🚤 I'm currently investigating with the student association Vanttec how to merge YOLO image recognizition within an 3d enviroment using point clouds   
+  - ✋ My own personal project revolves around using a robotic humanoid hand to secure dangerous objects such as knives or pointy tools that could harm humans
+  - 🎮 In my free time I like to play videogames and hang out with my friends
+  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/S0hxMGYFhEMzm/giphy.gif" width="200"/>
 </div>
@@ -12,12 +24,15 @@
 <div id ="Counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Alex888666&style=flat-square&color=yellow" alt=""/>
 </div>
-
+  
+---
+### 🖥️ Enviroments, tools and software I use
+  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS" alt="ROS" width="60" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS" alt="ROS" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
