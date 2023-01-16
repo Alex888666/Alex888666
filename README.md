@@ -5,9 +5,10 @@
   ### 🕺 Who I am? :
   
   I am an undergraduate student in Embedded Systems and Robotics, interested in humanoid robotics and autonomous navigation.
-  
-  - 🚤 I'm currently investigating with the student association Vanttec how to merge YOLO image recognizition within an 3d enviroment using point clouds   
+     
   - ✋ My own personal project revolves around using a robotic humanoid hand to secure dangerous objects such as knives or pointy tools that could harm humans
+  -  🚤 I'm currently investigating with the student association Vanttec how to merge YOLO image recognizition within an 3d enviroment using point clouds
+  -  🐶 I also have a project where we adapt a robot dog named Tori to give tours to visitors in a laboratory
   - 🎮 In my free time I like to play videogames and hang out with my friends
   
 <div id="header" align="center">
